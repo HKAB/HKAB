@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HKAB
-- 👀 I’m interested in everything except cooking and going out.
+- 👀 I’m interested in everything, my blog is @ hkab.github.io
 - 🌱 I’m currently learning anything that I'm obliged to.
 - 💞️ I’m ~looking to collaborate on~
 - 📫 How to reach me nguyenphutruong2707@gmail.com
