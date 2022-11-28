@@ -25,10 +25,9 @@
 </a>
     
 - 👋 Hi, I’m @HKAB
-- 👀 I’m interested in everything, my blog is @ hkab.github.io
-- 🌱 I’m currently learning anything that I'm obliged to.
-- 💞️ I’m looking to collaborate on researching in NLP field.
-- 📫 How to reach me: nguyenphutruong2707@gmail.com
+- 👀 I’m interested in art and science
+- 💻 I’m currently staring at my screen
+- 📫 Reach me via [Gmail](mailto:nguyenphutruong2707@gmail.com)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=HKAB.HKAB&left_color=green&right_color=red)
 
