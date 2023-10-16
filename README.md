@@ -29,7 +29,8 @@
 - 💻 I’m currently staring at my screen
 - 📫 Reach me via [Gmail](mailto:nguyenphutruong2707@gmail.com)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=HKAB.HKAB&left_color=green&right_color=red)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!---
 HKAB/HKAB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
