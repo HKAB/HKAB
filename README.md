@@ -1,33 +1,45 @@
-
 <div align="center">
-  <br>
-  <br>
-  <br>
-  <br>
-  <a href="hkab.github.io/">
+  <a href="https://hkab.github.io/">
     <img width="60" height="60" src="https://avatars.githubusercontent.com/u/19203947?v=4" />
   </a>
-  
-  <p>
-    <a href="https://www.facebook.com/79f4044e1adfef312211f28c101f368e/">
-      <img width="18" height="18" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Black/Facebook_black.svg" />
-    </a>
-    <a href="https://www.youtube.com/channel/UCEfdtF7584ZuzqLtKziPZgA">
-      <img width="18" height="18" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Black/Youtube_black.svg" />
-    </a>
-    <a href="mailto:nguyenphutruong2707@gmail.com">
-      <img width="18" height="18" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Black/Gmail_black.svg" />
-    </a>
+  <h1 align="center">Hi, I'm HKAB</h1>
 </div>
-  
-<a href="hkab.github.io/">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=HKAB&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true&hide_border=true" />
-</a>
-    
+
+<div align="center">
+  <a href="https://www.facebook.com/79f4044e1adfef312211f28c101f368e/">
+<!--     <img width="24" height="24" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Facebook.svg" /> -->
+    Facebook
+  </a>
+   •
+  <a href="https://www.youtube.com/channel/UCEfdtF7584ZuzqLtKziPZgA">
+<!--     <img width="24" height="24" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Youtube.svg" /> -->
+    Youtube
+  </a>
+   •
+  <a href="https://www.instagram.com/truophung">
+<!--     <img width="24" height="24" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Instagram.svg" /> -->
+    Insta
+  </a>
+</div>
+
+-------
+
 - 👋 Hi, I’m @HKAB
-- 👀 I’m interested in art and science
-- 💻 I’m currently staring at my screen
+- 👀 I’m interested in art and science, also Python
+- 💻 I’m currently staring at my screen cos ~~I'm addict to the Internet~~ I'm working
 - 📫 Reach me via [Gmail](mailto:nguyenphutruong2707@gmail.com)
+
+-------
+### 📊 My Github stats
+
+<p align="center">
+  <a href="https://hkab.github.io/">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=HKAB&show_icons=true&theme=neon" />
+  </a>
+</p>
+
+-------
+### 📃 My time stats
 
 <!--START_SECTION:waka-->
 
