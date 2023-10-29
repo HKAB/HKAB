@@ -44,15 +44,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 October 2023 - To: 26 October 2023
+From: 21 October 2023 - To: 27 October 2023
 
-Total Time: 22 hrs 59 mins
+Total Time: 21 hrs 50 mins
 
-Python           13 hrs 15 mins  ██████████████▒░░░░░░░░░░   57.66 %
-GDScript         5 hrs 31 mins   ██████░░░░░░░░░░░░░░░░░░░   24.05 %
-JavaScript       1 hr 21 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.93 %
-Prolog           52 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 %
-HTML             51 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
+Python           14 hrs 6 mins   ███████████████▓░░░░░░░░░   62.99 %
+GDScript         5 hrs 8 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.98 %
+Prolog           52 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 %
+Markdown         40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
+Other            33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
 ```
 
 <!--END_SECTION:waka-->
