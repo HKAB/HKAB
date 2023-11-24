@@ -44,15 +44,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 November 2023 - To: 21 November 2023
+From: 16 November 2023 - To: 22 November 2023
 
-Total Time: 2 hrs 49 mins
+Total Time: 1 hr 37 mins
 
-Python     2 hrs 15 mins   ███████████████████▓░░░░░   78.00 %
-Bash       13 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 %
-JSON       10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.08 %
-Makefile   5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 %
-Other      4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
+Python     1 hr 22 mins    █████████████████████▒░░░   85.05 %
+JSON       10 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.40 %
+Bash       3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
+Markdown   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
+CSV        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
 ```
 
 <!--END_SECTION:waka-->
