@@ -44,15 +44,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 December 2023 - To: 07 December 2023
+From: 02 December 2023 - To: 08 December 2023
 
-Total Time: 21 hrs 7 mins
+Total Time: 16 hrs 55 mins
 
-Python       16 hrs 53 mins  ███████████████████▒░░░░░   76.95 %
-Bash         2 hrs 15 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.29 %
-Markdown     1 hr 3 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.85 %
-Other        49 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 %
-Docker       30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
+Python       13 hrs          ██████████████████▒░░░░░░   73.76 %
+Bash         2 hrs 6 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.95 %
+Markdown     1 hr 1 min      █▒░░░░░░░░░░░░░░░░░░░░░░░   05.85 %
+Other        42 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 %
+Docker       30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 %
 ```
 
 <!--END_SECTION:waka-->
