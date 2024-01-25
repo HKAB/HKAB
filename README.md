@@ -44,15 +44,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 January 2024 - To: 22 January 2024
+From: 17 January 2024 - To: 23 January 2024
 
-Total Time: 18 hrs 51 mins
+Total Time: 18 hrs 41 mins
 
-Python     16 hrs 49 mins  ██████████████████████▒░░   88.79 %
-Bash       43 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
-Text       23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
-Docker     23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
-Markdown   20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
+Python     16 hrs 31 mins  █████████████████████░░░░   83.53 %
+Other      1 hr 5 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.53 %
+Bash       45 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
+Docker     36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
+Text       23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
 ```
 
 <!--END_SECTION:waka-->
