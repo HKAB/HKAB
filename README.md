@@ -44,14 +44,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 February 2024 - To: 08 February 2024
+From: 03 February 2024 - To: 09 February 2024
 
-Total Time: 5 hrs 27 mins
+Total Time: 4 hrs 22 mins
 
-Python     5 hrs 19 mins   ████████████████████████▒   97.56 %
-Markdown   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
-JSON       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
-HTML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Python   4 hrs 22 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
