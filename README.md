@@ -44,15 +44,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 February 2024 - To: 01 March 2024
+From: 25 February 2024 - To: 02 March 2024
 
-Total Time: 27 hrs 19 mins
+Total Time: 24 hrs 51 mins
 
-Python     25 hrs 5 mins   ███████████████████████░░   91.82 %
-Text       52 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.17 %
-Markdown   29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
-JSON       26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
-Bash       16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
+Python     23 hrs 15 mins  ███████████████████████▒░   93.52 %
+Markdown   29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
+JSON       26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
+Text       18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
+Bash       16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
 ```
 
 <!--END_SECTION:waka-->
