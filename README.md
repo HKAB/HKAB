@@ -44,15 +44,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 September 2024 - To: 09 September 2024
+From: 04 September 2024 - To: 10 September 2024
 
-Total Time: 13 hrs 9 mins
+Total Time: 15 hrs 31 mins
 
-Python        7 hrs 6 mins    █████████████▒░░░░░░░░░░░   53.97 %
-Cuda          5 hrs 42 mins   ███████████░░░░░░░░░░░░░░   43.38 %
-YAML          19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
-Makefile      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
-Objective-C   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+Python        9 hrs 26 mins   ███████████████▒░░░░░░░░░   60.81 %
+Cuda          5 hrs 42 mins   █████████▒░░░░░░░░░░░░░░░   36.79 %
+YAML          20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
+Makefile      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+Objective-C   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
