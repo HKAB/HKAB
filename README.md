@@ -44,15 +44,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 October 2024 - To: 07 October 2024
+From: 02 October 2024 - To: 08 October 2024
 
-Total Time: 22 hrs 49 mins
+Total Time: 23 hrs 19 mins
 
-HTML         14 hrs 5 mins   ███████████████▒░░░░░░░░░   61.70 %
-Python       7 hrs 30 mins   ████████▒░░░░░░░░░░░░░░░░   32.90 %
-JavaScript   48 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 %
-YAML         23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
-CSV          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Python       10 hrs 41 mins  ███████████▒░░░░░░░░░░░░░   45.63 %
+HTML         10 hrs 35 mins  ███████████▒░░░░░░░░░░░░░   45.23 %
+YAML         1 hr 6 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.73 %
+JavaScript   50 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 %
+Other        5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
 ```
 
 <!--END_SECTION:waka-->
