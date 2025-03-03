@@ -44,15 +44,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 February 2025 - To: 28 February 2025
+From: 23 February 2025 - To: 01 March 2025
 
-Total Time: 23 hrs 52 mins
+Total Time: 22 hrs 2 mins
 
-Python       21 hrs 16 mins  ██████████████████████░░░   87.76 %
-Markdown     1 hr 13 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.07 %
-Docker       23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
-Other        22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
-Text         18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
+Python       18 hrs 18 mins  ████████████████████▓░░░░   82.12 %
+Markdown     2 hrs 23 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.70 %
+Docker       23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
+Text         18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
+Git Config   16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
 ```
 
 <!--END_SECTION:waka-->
