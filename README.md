@@ -44,13 +44,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 April 2025 - To: 10 April 2025
+From: 05 April 2025 - To: 11 April 2025
 
-Total Time: 7 hrs
+Total Time: 0 secs
 
-Python     6 hrs 59 mins   █████████████████████████   99.70 %
-CSV        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
