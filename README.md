@@ -44,12 +44,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 October 2025 - To: 19 October 2025
+From: 14 October 2025 - To: 20 October 2025
 
-Total Time: 6 hrs 10 mins
+Total Time: 1 hr 22 mins
 
-Python     6 hrs 6 mins    ████████████████████████▓   98.82 %
-Markdown   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
+Python     1 hr 17 mins    ███████████████████████▓░   94.69 %
+Markdown   4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.31 %
 ```
 
 <!--END_SECTION:waka-->
