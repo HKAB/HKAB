@@ -44,11 +44,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 December 2025 - To: 04 January 2026
+From: 30 December 2025 - To: 05 January 2026
 
-Total Time: 0 secs
+Total Time: 14 hrs 24 mins
 
-No activity tracked
+Python     14 hrs 4 mins   ████████████████████████▒   97.42 %
+Bash       17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
+Other      3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+Markdown   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+Text       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
