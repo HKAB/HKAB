@@ -34,7 +34,8 @@
 
 <p align="center">
   <a href="https://hkab.github.io/">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=HKAB&show_icons=true&theme=neon" />
+    <a href="https://stats.hyo.dev/stats/HKAB"><img src="https://stats.hyo.dev/api/github-stats-advanced?login=HKAB" width="600" /></a>
+    <a href="https://stats.hyo.dev/stats/HKAB"><img src="https://stats.hyo.dev/api/github-trophies?login=HKAB" width="600" /></a>
   </a>
 </p>
 
