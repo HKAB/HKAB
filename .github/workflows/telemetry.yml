@@ -1,0 +1,48 @@
+name: update telemetry
+
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: "17 1 * * *"
+      timezone: "Asia/Bangkok"
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Generate telemetry
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+        run: python scripts/update_stats.py
+
+      - name: Commit changes
+        run: |
+          if git diff --quiet; then
+            echo "No telemetry changes."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add README.md stats/
+          git commit -m "chore: update telemetry"
+          git push
