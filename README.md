@@ -45,7 +45,7 @@
 snapshot     2026-10-13    github/HKAB
 ────────────────────────────────────────────────────────────
 
-repositories  52     stars          96
+repositories  53     stars          96
 followers     28     forks           22
 
 365 DAY ACTIVITY
@@ -56,16 +56,16 @@ followers     28     forks           22
   ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▂▁▁▁▁▂▁▃▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁
   ▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▂▁▁▁▂▁▁
   ▁▁▁▁▁▅▁▅██▂▁▁▁▁▁▁▂▃▁▁▁▁▁▁▁▅▁▁▂▁▁▅▁▁▁▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁
-  ▁▁▁▁▁
+  ▁▁▁▁▂
 
-contributions  50
+contributions  51
 commits        29
 pull requests  2
 issues         1
 reviews        0
 
-active days     27 / 365
-current streak   0 days
+active days     28 / 365
+current streak   1 days
 longest streak   4 days
 
 LAST 7 DAYS
@@ -76,12 +76,12 @@ Fri  ░░░░░░░░░░░░░░░░░░░░░░    0
 Sat  ░░░░░░░░░░░░░░░░░░░░░░    0
 Sun  ░░░░░░░░░░░░░░░░░░░░░░    0
 Mon  ░░░░░░░░░░░░░░░░░░░░░░    0
-Tue  ░░░░░░░░░░░░░░░░░░░░░░    0
+Tue  ██████████████████████    1
 
 PRIMARY LANGUAGES / PUBLIC REPOSITORIES
 
-Python       ████████████████████   24
-Jupyter Note ███████░░░░░░░░░░░░░    8
+Python       ████████████████████   25
+Jupyter Note ██████░░░░░░░░░░░░░░    8
 JavaScript   ████░░░░░░░░░░░░░░░░    5
 Shell        ██░░░░░░░░░░░░░░░░░░    2
 Java         ██░░░░░░░░░░░░░░░░░░    2
@@ -100,27 +100,27 @@ Dart         █░░░░░░░░░░░░░░░░░░░    1
 WAKATIME / LAST 7 DAYS
 ────────────────────────────────────────────────────────────
 
-total          28h 31m
-daily average  4h 45m
+total          26h 45m
+daily average  4h 27m
 
 LANGUAGES
 
-Python       ██████████████████████  38.5%  13h 12m
-Shell        ██████████░░░░░░░░░░░░  17.8%  6h 06m
-Other        ██████████░░░░░░░░░░░░  16.9%  5h 48m
-JSON         ██████░░░░░░░░░░░░░░░░  11.0%  3h 46m
-Markdown     ████░░░░░░░░░░░░░░░░░░   7.0%  2h 25m
-YAML         ██░░░░░░░░░░░░░░░░░░░░   3.9%  1h 19m
-Text         █░░░░░░░░░░░░░░░░░░░░░   2.3%  47m
+Python       ██████████████████████  34.0%  11h 27m
+Other        █████████████░░░░░░░░░  20.6%  6h 56m
+Shell        ███████████░░░░░░░░░░░  16.4%  5h 31m
+JSON         ████████░░░░░░░░░░░░░░  13.1%  4h 25m
+Markdown     █████░░░░░░░░░░░░░░░░░   8.0%  2h 40m
+YAML         ███░░░░░░░░░░░░░░░░░░░   4.1%  1h 22m
+Text         █░░░░░░░░░░░░░░░░░░░░░   1.4%  27m
 CSV          █░░░░░░░░░░░░░░░░░░░░░   1.3%  26m
 
 PROJECTS
 
-uv_env             ██████████████████ 11h 26m
-workspace          ████████████████░░ 9h 58m
-tts-slm-norm       ██████████░░░░░░░░ 6h 27m
-asr-correction     ████████░░░░░░░░░░ 5h 13m
-utils              █░░░░░░░░░░░░░░░░░ 33m
+uv_env             ██████████████████ 12h 38m
+workspace          █████████████░░░░░ 9h 13m
+tts-slm-norm       ████████░░░░░░░░░░ 5h 28m
+asr-correction     ███████░░░░░░░░░░░ 4h 57m
+backend            █░░░░░░░░░░░░░░░░░ 39m
 ```
 <!--END_SECTION:waka-->
 
