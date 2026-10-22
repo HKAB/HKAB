@@ -1,115 +1,115 @@
 {
-  "generated_at": "2026-10-21T21:47:16.281728+00:00",
-  "total_seconds": 82535.046,
-  "daily_average": 16507.0,
+  "generated_at": "2026-10-22T21:41:43.441623+00:00",
+  "total_seconds": 80258.784,
+  "daily_average": 16052.0,
   "languages": [
     {
       "name": "Python",
-      "seconds": 38475.893,
-      "percent": 36.26,
-      "text": "10 hrs 41 mins"
+      "seconds": 33807.935,
+      "percent": 34.24,
+      "text": "9 hrs 23 mins"
     },
     {
       "name": "Other",
-      "seconds": 23586.097,
-      "percent": 22.23,
-      "text": "6 hrs 33 mins"
+      "seconds": 18489.708,
+      "percent": 18.72,
+      "text": "5 hrs 8 mins"
     },
     {
       "name": "Shell",
-      "seconds": 16705.286,
-      "percent": 15.74,
-      "text": "4 hrs 38 mins"
+      "seconds": 17316.823,
+      "percent": 17.54,
+      "text": "4 hrs 48 mins"
     },
     {
       "name": "JSON",
-      "seconds": 13120.746,
-      "percent": 12.36,
-      "text": "3 hrs 38 mins"
+      "seconds": 12970.89,
+      "percent": 13.14,
+      "text": "3 hrs 36 mins"
     },
     {
       "name": "Markdown",
-      "seconds": 6778.956,
-      "percent": 6.39,
-      "text": "1 hr 52 mins"
+      "seconds": 6623.673,
+      "percent": 6.71,
+      "text": "1 hr 50 mins"
     },
     {
       "name": "Bash",
-      "seconds": 2235.414,
-      "percent": 2.11,
-      "text": "37 mins"
+      "seconds": 3499.774,
+      "percent": 3.54,
+      "text": "58 mins"
     },
     {
       "name": "YAML",
       "seconds": 1893.533,
-      "percent": 1.78,
+      "percent": 1.92,
       "text": "31 mins"
+    },
+    {
+      "name": "Dotenv",
+      "seconds": 1067.531,
+      "percent": 1.08,
+      "text": "17 mins"
     },
     {
       "name": "OASv2-json",
       "seconds": 975.157,
-      "percent": 0.92,
+      "percent": 0.99,
       "text": "16 mins"
     },
     {
-      "name": "Dotenv",
-      "seconds": 785.177,
-      "percent": 0.74,
-      "text": "13 mins"
+      "name": "Text",
+      "seconds": 758.988,
+      "percent": 0.77,
+      "text": "12 mins"
     },
     {
       "name": "SSH Config",
-      "seconds": 541.433,
-      "percent": 0.51,
-      "text": "9 mins"
-    },
-    {
-      "name": "CSS",
-      "seconds": 283.214,
-      "percent": 0.27,
-      "text": "4 mins"
+      "seconds": 371.473,
+      "percent": 0.38,
+      "text": "6 mins"
     },
     {
       "name": "Git Config",
       "seconds": 278.469,
-      "percent": 0.26,
+      "percent": 0.28,
+      "text": "4 mins"
+    },
+    {
+      "name": "CSS",
+      "seconds": 276.995,
+      "percent": 0.28,
       "text": "4 mins"
     },
     {
       "name": "JavaScript",
-      "seconds": 214.116,
-      "percent": 0.2,
+      "seconds": 190.525,
+      "percent": 0.19,
       "text": "3 mins"
     },
     {
       "name": "TypeScript",
       "seconds": 157.131,
-      "percent": 0.15,
+      "percent": 0.16,
       "text": "2 mins"
     },
     {
       "name": "HTML",
-      "seconds": 83.126,
-      "percent": 0.08,
+      "seconds": 69.887,
+      "percent": 0.07,
       "text": "1 min"
-    },
-    {
-      "name": "Text",
-      "seconds": 7.395,
-      "percent": 0.01,
-      "text": "0 secs"
     }
   ],
   "editors": [
     {
-      "total_seconds": 91573.245,
+      "total_seconds": 86004.285,
       "name": "VS Code",
-      "ai_coding_seconds": "6008.808000",
-      "manual_coding_seconds": "64714.304000",
+      "ai_coding_seconds": "5226.012000",
+      "manual_coding_seconds": "64813.710000",
       "ai_additions": 1092,
       "ai_deletions": 0,
-      "human_additions": 111813,
-      "human_deletions": 13049,
+      "human_additions": 64070,
+      "human_deletions": 13048,
       "ai_model_line_changes": {
         "GPT": 1092
       },
@@ -135,63 +135,63 @@
         }
       ],
       "ai_model_total_cost": 6.626446,
-      "percent": 86.29,
-      "digital": "25:26",
-      "decimal": "25.43",
-      "text": "25 hrs 26 mins",
-      "hours": 25,
-      "minutes": 26
+      "percent": 87.09,
+      "digital": "23:53",
+      "decimal": "23.88",
+      "text": "23 hrs 53 mins",
+      "hours": 23,
+      "minutes": 53
     },
     {
-      "total_seconds": 14547.898,
+      "total_seconds": 12744.207,
       "name": "Codex Vscode",
-      "ai_coding_seconds": "14547.898000",
+      "ai_coding_seconds": "12744.207000",
       "manual_coding_seconds": 0,
-      "ai_additions": 7427,
-      "ai_deletions": 111,
+      "ai_additions": 7033,
+      "ai_deletions": 110,
       "human_additions": 0,
       "human_deletions": 0,
       "ai_model_line_changes": {
-        "GPT": 7538
+        "GPT": 7143
       },
       "ai_model_costs": {
-        "GPT": 55.263849
+        "GPT": 49.724373
       },
-      "ai_input_tokens": 3458677,
-      "ai_cached_input_tokens": 81155584,
-      "ai_output_tokens": 448345,
-      "ai_prompt_length_avg": 1058,
+      "ai_input_tokens": 3077826,
+      "ai_cached_input_tokens": 73078912,
+      "ai_output_tokens": 409075,
+      "ai_prompt_length_avg": 1178,
       "ai_prompt_length_avg_per_session": 496,
       "ai_prompt_length_median_per_session": 706,
-      "ai_prompt_length_sum": 63454,
-      "ai_prompt_events_total": 60,
-      "ai_prompt_events_avg_per_session": 5,
+      "ai_prompt_length_sum": 62413,
+      "ai_prompt_events_total": 53,
+      "ai_prompt_events_avg_per_session": 6,
       "ai_prompt_events_median_per_session": 6,
-      "ai_sessions": 11,
+      "ai_sessions": 9,
       "ai_model_breakdown": [
         {
           "name": "GPT",
-          "lines": 7538,
-          "cost": 55.263849
+          "lines": 7143,
+          "cost": 49.724373
         }
       ],
-      "ai_model_total_cost": 55.263849,
-      "percent": 13.71,
-      "digital": "4:02",
-      "decimal": "4.03",
-      "text": "4 hrs 2 mins",
-      "hours": 4,
-      "minutes": 2
+      "ai_model_total_cost": 49.724373,
+      "percent": 12.91,
+      "digital": "3:32",
+      "decimal": "3.53",
+      "text": "3 hrs 32 mins",
+      "hours": 3,
+      "minutes": 32
     }
   ],
   "projects": [
     {
-      "total_seconds": 47682.183,
+      "total_seconds": 36627.773,
       "name": "uv_env",
       "ai_additions": 654,
       "ai_deletions": 0,
-      "human_additions": 65209,
-      "human_deletions": 224,
+      "human_additions": 17072,
+      "human_deletions": 210,
       "ai_model_line_changes": {
         "GPT": 654
       },
@@ -215,59 +215,59 @@
         }
       ],
       "ai_model_total_cost": 0.0,
-      "percent": 44.93,
-      "digital": "13:14",
-      "decimal": "13.23",
-      "text": "13 hrs 14 mins",
-      "hours": 13,
-      "minutes": 14
+      "percent": 37.09,
+      "digital": "10:10",
+      "decimal": "10.17",
+      "text": "10 hrs 10 mins",
+      "hours": 10,
+      "minutes": 10
     },
     {
-      "total_seconds": 27555.215,
+      "total_seconds": 26092.861,
       "name": "IFBench",
-      "ai_additions": 6278,
-      "ai_deletions": 95,
+      "ai_additions": 6057,
+      "ai_deletions": 94,
       "human_additions": 33454,
       "human_deletions": 11943,
       "ai_model_line_changes": {
-        "GPT": 6373
+        "GPT": 6151
       },
       "ai_model_costs": {
-        "GPT": 42.299379
+        "GPT": 39.327209
       },
-      "ai_input_tokens": 2772706,
-      "ai_cached_input_tokens": 60974720,
-      "ai_output_tokens": 340933,
-      "ai_prompt_length_avg": 1270,
+      "ai_input_tokens": 2528602,
+      "ai_cached_input_tokens": 57126144,
+      "ai_output_tokens": 318117,
+      "ai_prompt_length_avg": 1376,
       "ai_prompt_length_avg_per_session": 818,
       "ai_prompt_length_median_per_session": 953,
-      "ai_prompt_length_sum": 58436,
-      "ai_prompt_events_total": 46,
+      "ai_prompt_length_sum": 57780,
+      "ai_prompt_events_total": 42,
       "ai_prompt_events_avg_per_session": 7,
       "ai_prompt_events_median_per_session": 11,
-      "ai_sessions": 7,
+      "ai_sessions": 6,
       "ai_model_breakdown": [
         {
           "name": "GPT",
-          "lines": 6373,
-          "cost": 42.299379
+          "lines": 6151,
+          "cost": 39.327209
         }
       ],
-      "ai_model_total_cost": 42.299379,
-      "percent": 25.97,
-      "digital": "7:39",
-      "decimal": "7.65",
-      "text": "7 hrs 39 mins",
+      "ai_model_total_cost": 39.327209,
+      "percent": 26.42,
+      "digital": "7:14",
+      "decimal": "7.23",
+      "text": "7 hrs 14 mins",
       "hours": 7,
-      "minutes": 39
+      "minutes": 14
     },
     {
-      "total_seconds": 12341.859,
+      "total_seconds": 15791.81,
       "name": "workspace",
       "ai_additions": 8,
       "ai_deletions": 0,
-      "human_additions": 12602,
-      "human_deletions": 6,
+      "human_additions": 12981,
+      "human_deletions": 15,
       "ai_model_line_changes": {
         "GPT": 8
       },
@@ -291,12 +291,12 @@
         }
       ],
       "ai_model_total_cost": 0.0,
-      "percent": 11.63,
-      "digital": "3:25",
-      "decimal": "3.42",
-      "text": "3 hrs 25 mins",
-      "hours": 3,
-      "minutes": 25
+      "percent": 15.99,
+      "digital": "4:23",
+      "decimal": "4.38",
+      "text": "4 hrs 23 mins",
+      "hours": 4,
+      "minutes": 23
     },
     {
       "total_seconds": 7233.75,
@@ -328,7 +328,7 @@
         }
       ],
       "ai_model_total_cost": 0.0,
-      "percent": 6.82,
+      "percent": 7.33,
       "digital": "2:00",
       "decimal": "2.00",
       "text": "2 hrs",
@@ -336,12 +336,12 @@
       "minutes": 0
     },
     {
-      "total_seconds": 4466.43,
+      "total_seconds": 5096.704,
       "name": "asr-correction",
       "ai_additions": 0,
       "ai_deletions": 0,
-      "human_additions": 488,
-      "human_deletions": 164,
+      "human_additions": 493,
+      "human_deletions": 167,
       "ai_model_line_changes": {},
       "ai_model_costs": {},
       "ai_input_tokens": 0,
@@ -357,51 +357,80 @@
       "ai_sessions": 0,
       "ai_model_breakdown": [],
       "ai_model_total_cost": 0,
-      "percent": 4.21,
-      "digital": "1:14",
-      "decimal": "1.23",
-      "text": "1 hr 14 mins",
+      "percent": 5.16,
+      "digital": "1:24",
+      "decimal": "1.40",
+      "text": "1 hr 24 mins",
       "hours": 1,
-      "minutes": 14
+      "minutes": 24
     },
     {
-      "total_seconds": 4113.845,
+      "total_seconds": 3069.909,
       "name": "slurm-monitor",
-      "ai_additions": 1074,
+      "ai_additions": 901,
       "ai_deletions": 16,
-      "human_additions": 7,
+      "human_additions": 2,
       "human_deletions": 0,
       "ai_model_line_changes": {
-        "GPT": 1090
+        "GPT": 917
       },
       "ai_model_costs": {
-        "GPT": 13.686572
+        "GPT": 11.119266
       },
-      "ai_input_tokens": 716474,
-      "ai_cached_input_tokens": 22095744,
-      "ai_output_tokens": 99119,
-      "ai_prompt_length_avg": 315,
+      "ai_input_tokens": 579727,
+      "ai_cached_input_tokens": 17867648,
+      "ai_output_tokens": 82665,
+      "ai_prompt_length_avg": 395,
       "ai_prompt_length_avg_per_session": 174,
       "ai_prompt_length_median_per_session": 128,
-      "ai_prompt_length_sum": 3148,
-      "ai_prompt_events_total": 10,
-      "ai_prompt_events_avg_per_session": 5,
+      "ai_prompt_length_sum": 2763,
+      "ai_prompt_events_total": 7,
+      "ai_prompt_events_avg_per_session": 7,
       "ai_prompt_events_median_per_session": 3,
-      "ai_sessions": 2,
+      "ai_sessions": 1,
       "ai_model_breakdown": [
         {
           "name": "GPT",
-          "lines": 1090,
-          "cost": 13.686572
+          "lines": 917,
+          "cost": 11.119266
         }
       ],
-      "ai_model_total_cost": 13.686572,
-      "percent": 3.88,
-      "digital": "1:08",
-      "decimal": "1.13",
-      "text": "1 hr 8 mins",
-      "hours": 1,
-      "minutes": 8
+      "ai_model_total_cost": 11.119266,
+      "percent": 3.11,
+      "digital": "0:51",
+      "decimal": "0.85",
+      "text": "51 mins",
+      "hours": 0,
+      "minutes": 51
+    },
+    {
+      "total_seconds": 2107.824,
+      "name": "backend",
+      "ai_additions": 0,
+      "ai_deletions": 0,
+      "human_additions": 15,
+      "human_deletions": 1,
+      "ai_model_line_changes": {},
+      "ai_model_costs": {},
+      "ai_input_tokens": 0,
+      "ai_cached_input_tokens": 0,
+      "ai_output_tokens": 0,
+      "ai_prompt_length_avg": 0,
+      "ai_prompt_length_avg_per_session": 0,
+      "ai_prompt_length_median_per_session": 0,
+      "ai_prompt_length_sum": 0,
+      "ai_prompt_events_total": 0,
+      "ai_prompt_events_avg_per_session": 0,
+      "ai_prompt_events_median_per_session": 0,
+      "ai_sessions": 0,
+      "ai_model_breakdown": [],
+      "ai_model_total_cost": 0,
+      "percent": 2.13,
+      "digital": "0:35",
+      "decimal": "0.58",
+      "text": "35 mins",
+      "hours": 0,
+      "minutes": 35
     },
     {
       "total_seconds": 1531.304,
@@ -435,7 +464,7 @@
         }
       ],
       "ai_model_total_cost": 4.442688,
-      "percent": 1.44,
+      "percent": 1.55,
       "digital": "0:25",
       "decimal": "0.42",
       "text": "25 mins",
@@ -464,7 +493,7 @@
       "ai_sessions": 0,
       "ai_model_breakdown": [],
       "ai_model_total_cost": 0,
-      "percent": 0.79,
+      "percent": 0.85,
       "digital": "0:13",
       "decimal": "0.22",
       "text": "13 mins",
@@ -503,7 +532,7 @@
         }
       ],
       "ai_model_total_cost": 1.461656,
-      "percent": 0.23,
+      "percent": 0.25,
       "digital": "0:04",
       "decimal": "0.07",
       "text": "4 mins",
@@ -532,7 +561,7 @@
       "ai_sessions": 0,
       "ai_model_breakdown": [],
       "ai_model_total_cost": 0,
-      "percent": 0.1,
+      "percent": 0.11,
       "digital": "0:01",
       "decimal": "0.02",
       "text": "1 min",
